@@ -1,8 +1,8 @@
 # -2022I_Recuperacion-
-Crear nuevo repositorio
+* Exámen de Recuperación
 # Nombre
--Lidia Catota 
+* Lidia Catota 
 # Grupo 
-- Nª 1
+* Nª 1
 # Curso 
--Bioinformática 
+* Bioinformática 
