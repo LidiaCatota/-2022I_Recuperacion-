@@ -8,7 +8,7 @@
 * Bioinformática 
 # Caracteristics del equipo utilizado 
 * Nombre del dispositivo
-- DESKTOP-2BL92NC
+DESKTOP-2BL92NC
 * Procesador
 - Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz 2.90GHz 
 * RAM instalada
